@@ -1,4 +1,12 @@
-How to run with profile ?
+### Features
+* Spring Boot 2.0.2.RELEASE
+* Working with MongoDB
+* Testing with Embedded MongoDB
+* Services and Controller testing
+* Switching profie
+* Code coverage with Jacoco (Separate result between Unit tests and Integration tests)
+
+### How to run with profile ?
 
 ```
 // Test with embedded mongodb
