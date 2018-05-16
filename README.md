@@ -24,4 +24,5 @@ $mvn clean install -Dspring.profiles.active=production
 * [Link 1](https://github.com/Godin/sonar-experiments/blob/master/jacoco-examples/maven-failsafe-plugin-example/pom.xml)
 * [Link 2](https://github.com/mvpjava/springboot-IntegrationTests-Tutorial)
 * [Link 3](https://github.com/piczmar/maven-jacoco-remote)
+* [Link 4](https://thepracticaldeveloper.com/2016/02/06/test-coverage-analysis-for-your-spring-boot-app/)
 
